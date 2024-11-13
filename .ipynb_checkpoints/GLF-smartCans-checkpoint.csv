@@ -1,0 +1,1195 @@
+_id,container_id,receptacle_model_id,address,zip,neighborhood
+314722,1,74,122 E North Ave,15212,Central Northside
+314723,2,74,2507 Brighton Rd,15212,Marshall-Shadeland
+314724,3,74,1300 Federal St,15212,Central Northside
+314725,4,74,110 Federal St,15212,Allegheny Center
+314726,5,74,490 E North Ave,15212,Central Northside
+314727,6,74,1501 Brighton Rd,15212,California-Kirkbride
+314728,7,74,3113 Brighton Rd,15212,Marshall-Shadeland
+314729,8,74,1729 Brighton Rd,15212,California-Kirkbride
+314730,9,74,710 W North Ave,15212,Allegheny Center
+314731,10,74,919 Fulton St,15233,Manchester
+314732,11,74,3900 Perrysville Ave,15214,Perry North
+314733,12,74,2515 Preble Ave,15233,Marshall-Shadeland
+314734,13,74,3876 Perrysville Ave,15214,Perry North
+314735,14,74,1729 Eckert Street,15212,Marshall-Shadeland
+314736,15,74,2344 Perrysville Ave,15214,Perry South
+314737,16,74,308 Catoma Street,15212,Fineview
+314738,17,74,1438 Columbus Ave,15233,Manchester
+314739,18,74,2639 Perrysville Ave,15214,Perry South
+314740,19,74,910 Galveston Ave,15233,Allegheny West
+314741,20,74,3957 Perrysville Ave,15214,Perry North
+314742,21,74,2909 Perrysville Ave,15214,Perry North
+314743,22,74,3472 Perrysville Ave,15214,Perry North
+314744,23,74,1305 Allegheny Ave,15233,Manchester
+314745,24,74,1414 Brighton Rd,15212,Central Northside
+314746,25,74,1211 Troy Hill Rd,15212,Troy Hill
+314747,26,74,2320 California Ave,15233,Marshall-Shadeland
+314748,27,74,404 Cedar Avenue,15212,East Allegheny
+314749,28,74,320 E North Ave,15212,Allegheny Center
+314750,29,74,3461 Perrysville Ave,15214,Perry North
+314751,30,74,3607 Brighton Rd,15212,Brighton Heights
+314752,31,74,1814 Homer St,15212,Spring Hill-City View
+314753,32,74,1819 Manhattan St,15233,Manchester
+314754,33,74,3159 Shadeland Ave,15212,Marshall-Shadeland
+314755,34,74,862 Spring Garden Ave,15212,East Allegheny
+314756,35,74,1483 Benton Ave,15212,Brighton Heights
+314757,36,74,1800 Meadville St,15214,Fineview
+314758,37,74,208 Jacksonia Street,15212,Central Northside
+314759,38,74,1108 Federal Street,15212,Central Northside
+314760,39,74,1201 Woods Run Avenue,15212,Marshall-Shadeland
+314761,40,74,416 West North Avenue,15212,Central Northside
+314762,41,74,623 E Ohio St,15212,East Allegheny
+314763,42,74,6 W North Ave,15212,Allegheny Center
+314764,43,74,2919 California Ave,15212,Marshall-Shadeland
+314765,44,74,2101 Perrysville Ave,15214,Perry South
+314766,45,74,3934 Brighton Rd,15212,Brighton Heights
+314767,46,74,1200 Spring Garden Ave,15212,Spring Garden
+314768,47,74,924 Spring Garden Ave,15212,East Allegheny
+314769,48,74,1709 Lowrie St,15212,Troy Hill
+314770,50,74,1442 Lowrie St,15212,Troy Hill
+314771,51,74,3302 Fleming Ave,15212,Brighton Heights
+314772,52,74,2441 Perrysville Ave,15214,Perry South
+314773,53,74,1034 Peralta Street,15212,Troy Hill
+314774,54,74,1918 Lowrie St,15212,Troy Hill
+314775,55,74,2625 Shadeland Ave,15212,Marshall-Shadeland
+314776,56,74,3400 Shadeland Ave,15212,Brighton Heights
+314777,57,74,1800 Lowrie St,15212,Troy Hill
+314778,58,74,East Street,15214,Perry North
+314779,59,74,620 E Ohio St,15212,East Allegheny
+314780,60,74,600 E Ohio St,15212,East Allegheny
+314781,62,74,1440 Spring Garden Ave,15212,Spring Garden
+314782,63,74,3572 Brighton Rd,15212,Brighton Heights
+314783,64,74,848 E Ohio St,15212,East Allegheny
+314784,65,74,3152 Brighton Rd,15212,Marshall-Shadeland
+314785,66,74,3141 Brighton Rd,15212,Marshall-Shadeland
+314786,67,74,3878 Brighton Rd,15212,Brighton Heights
+314787,68,74,3801 Brighton Rd,15212,Brighton Heights
+314788,69,74,1351 Damas Street,15212,Spring Hill-City View
+314789,70,74,2703 Brighton Rd,15212,Marshall-Shadeland
+314790,71,74,705 Brighton Rd,15233,Allegheny West
+314791,73,74,632 E Ohio St,15212,East Allegheny
+314792,74,74,1620 Spring Garden Ave,15212,Spring Garden
+314793,75,74,863 Peralta Street,15212,East Allegheny
+314794,76,74,2403 Perrysville Ave,15214,Perry South
+314795,77,74,1246 Brighton Rd,15233,Central Northside
+314796,78,74,2723 Brighton Rd,15212,Marshall-Shadeland
+314797,80,74,1300 Federal St,15212,Central Northside
+314798,81,74,500 Cedar Avenue,15212,East Allegheny
+314799,82,74,2117 Lowrie St,15212,Troy Hill
+314800,83,74,401 W Commons St,15212,Allegheny Center
+314801,85,74,402 Catoma Street,15212,Fineview
+314802,86,74,1619 Manhattan St,15233,Manchester
+314803,87,74,2515 Preble Ave,15233,Marshall-Shadeland
+314804,88,74,4000 Brighton Rd,15212,Brighton Heights
+314805,89,74,3414 East Street,15214,Northview Heights
+314806,90,74,3244 Brighton Rd,15212,Marshall-Shadeland
+314807,91,74,3202 Brighton Road,15212,Marshall-Shadeland
+314808,92,74,1603 Beaver Avenue,15233,Chateau
+314809,93,74,3243 Brighton Rd,15212,Marshall-Shadeland
+314810,94,74,632 E Ohio St,15212,East Allegheny
+314811,95,74,1845 Ley St,15212,Troy Hill
+314812,96,74,1320 Troy Hill Rd,15212,Troy Hill
+314813,97,74,1413 Troy Hill Rd,15212,Troy Hill
+314814,98,74,1310 Benton Ave,15212,Brighton Heights
+314815,99,74,1612 Lowrie St,15212,Troy Hill
+314816,100,74,862 Western Ave,15233,Allegheny West
+314817,101,74,857 Western Ave,15233,Allegheny West
+314818,102,74,900 Western Ave,15233,Allegheny West
+314819,103,74,818 Western Ave,15233,Allegheny West
+314820,105,74,540 E Ohio St,15212,East Allegheny
+314821,107,74,528 E Ohio St,15212,East Allegheny
+314822,108,74,902 Fifth Avenue,15219,Bluff
+314823,109,74,1208 Fifth Avenue,15219,Bluff
+314824,110,74,1000 Fifth Avenue,15219,Bluff
+314825,112,74,537 Suismon Street,15212,East Allegheny
+314826,115,74,624 Cedar Ave,15212,East Allegheny
+314827,116,74,3573 Shadeland Ave,15212,Brighton Heights
+314828,117,74,3301 Brighton Rd,15212,Brighton Heights
+314829,118,74,600 W North Ave,15212,Allegheny Center
+314830,119,74,613 E Ohio St,15212,East Allegheny
+314831,121,74,5201 Penn Avenue,15224,Garfield
+314832,122,74,2940 Arlington Ave,15210,Arlington
+314833,123,74,130 Saline Street,15207,Greenfield
+314834,125,74,6325 Penn Avenue,15206,East Liberty
+314835,126,74,1820 Morningside Avenue,15206,Morningside
+314836,127,74,405 Saint Joseph Street,15210,Mt. Oliver
+314837,128,74,2635 Brownsville Rd,15227,Carrick
+314838,129,74,6101 Penn Avenue,15206,East Liberty
+314839,130,74,517 Greenfield Ave,15207,Greenfield
+314840,132,74,4041 Boulevard Drive,15217,Greenfield
+314841,133,74,6135 Penn Avenue,15206,East Liberty
+314842,134,74,6244 Penn Avenue,15206,East Liberty
+314843,136,74,1616 Broadway Ave,15216,Beechview
+314844,137,74,7103 Reynolds Street,15208,Point Breeze
+314845,138,74,1304 Fifth Avenue,15219,Central Business District
+314846,139,74,6024 Penn Avenue,15206,East Liberty
+314847,141,74,1402 Fifth Avenue,15219,Bluff
+314848,143,74,1616 Broadway Ave,15216,Beechview
+314849,145,74,6361 Penn Avenue,15206,Shadyside
+314850,146,74,5231 Centre Ave,15224,Bloomfield
+314851,147,74,620 Brookline Blvd,15226,Brookline
+314852,148,74,5300 Penn Avenue,15224,Garfield
+314853,149,74,221 South Highland Avenue,15206,Shadyside
+314854,150,74,216 South Highland Avenue,15206,Shadyside
+314855,151,74,232 South Highland Avenue,15206,Shadyside
+314856,152,74,542 Brookline Blvd,15226,Brookline
+314857,153,74,3360 Fifth Avenue,15213,South Oakland
+314858,156,74,1276 Benton Ave,15212,Brighton Heights
+314859,157,74,238 Spahr Street,15232,Shadyside
+314860,158,74,1210 Mellon Street,15206,Highland Park
+314861,159,74,5800 Bryant Street,15206,Highland Park
+314862,161,74,910 Fifth Avenue,15219,Central Business District
+314863,163,74,3518 Brighton Rd,15212,Brighton Heights
+314864,164,74,1046 Fifth Avenue,15219,Bluff
+314865,166,74,2305 East Carson Street,15203,South Side Flats
+314866,167,74,1815 North Charles Street,15214,Perry South
+314867,168,74,3507 California Ave,15212,Brighton Heights
+314868,169,74,635 E Warrington Ave,15210,Allentown
+314869,170,74,2100 East Carson Street,15203,South Side Flats
+314870,171,74,2003 Arlington Ave,15210,South Side Slopes
+314871,172,74,2000 East Carson Street,15203,South Side Flats
+314872,173,74,1409 East Carson Street,15203,South Side Flats
+314873,174,74,1831 East Carson Street,15203,South Side Flats
+314874,175,74,511 East Carson Street,15203,South Side Flats
+314875,176,74,13 Wabash St,15220,West End
+314876,177,74,1101 Brookline Blvd,15226,Brookline
+314877,178,74,128 Knox Ave,15210,Knoxville
+314878,179,74,2135 Brownsville Rd,15210,Carrick
+314879,180,74,1503 Brownsville Rd,15210,Carrick
+314880,181,74,128 S 18th St,15203,South Side Flats
+314881,182,74,2601 Brownsville Rd,15227,Carrick
+314882,183,74,1150 Brownsville Rd,15210,Carrick
+314883,184,74,2806 Brownsville Rd,15227,Carrick
+314884,186,74,1900 W Liberty Ave,15226,Brookline
+314885,188,74,2626 Brownsville Rd,15227,Carrick
+314886,190,74,2361 Brownsville Rd,15210,Carrick
+314887,191,74,2727 Brownsville Rd,15227,Carrick
+314888,192,74,1401 East Carson Street,15203,South Side Flats
+314889,193,74,2700 Pioneer Ave,15226,Brookline
+314890,194,74,106 S 18th St,15203,South Side Flats
+314891,195,74,400 Cherry Way,15219,Central Business District
+314892,196,74,2320 Arlington Ave,15210,Arlington
+314893,197,74,1417 East Carson Street,15203,South Side Flats
+314894,200,74,2300 East Carson Street,15203,South Side Flats
+314895,201,74,1039 Brookline Blvd,15226,Brookline
+314896,202,74,1914 Brownsville Rd,15210,Carrick
+314897,203,74,1802 Brownsville Rd,15210,Carrick
+314898,204,74,2022 Brownsville Rd,15210,Carrick
+314899,206,74,1707 Arlington Ave,15210,South Side Slopes
+314900,207,74,1501 East Carson Street,15203,South Side Flats
+314901,208,74,2401 East Carson Street,15203,South Side Flats
+314902,209,74,1800 Pioneer Ave,15226,Brookline
+314903,210,74,1300 Breining Street,15226,Brookline
+314904,211,74,2801 S 18th St,15210,South Side Slopes
+314905,212,74,1117 East Carson Street,15203,South Side Flats
+314906,213,74,570 E Warrington Ave,15210,Beltzhoover
+314907,214,74,911 East Carson Street,15203,South Side Flats
+314908,215,74,1222 Arlington Ave,15210,Allentown
+314909,216,74,2001 East Carson Street,15203,South Side Flats
+314910,217,74,2340 East Carson Street,15203,South Side Flats
+314911,218,74,1324 East Carson Street,15203,South Side Flats
+314912,219,74,300 Brownsville Rd,15210,Knoxville
+314913,220,74,1100 Brownsville Rd,15210,Carrick
+314914,221,74,2508 Brownsville Road,15210,Carrick
+314915,222,74,2317 Arlington Ave,15210,South Side Slopes
+314916,223,74,1633 Brownsville Rd,15210,Carrick
+314917,224,74,1230 Arlington Ave,15210,Allentown
+314918,225,74,2535 North Charles Street,15214,Perry South
+314919,226,74,1201 East Carson Street,15203,South Side Flats
+314920,227,74,601 Brownsville Rd,15210,Knoxville
+314921,228,74,120 Beltzhoover Ave,15210,Beltzhoover
+314922,229,74,1820 East Carson Street,15203,South Side Flats
+314923,230,74,1301 East Carson Street,15203,South Side Flats
+314924,232,74,2130 East Carson Street,15203,South Side Flats
+314925,233,74,1800 East Carson Street,15203,South Side Flats
+314926,234,74,2400 Arlington Avenue,15210,Arlington
+314927,235,74,300 Beltzhoover Avenue,15210,Beltzhoover
+314928,236,74,54 South 13th Street,15203,South Side Flats
+314929,237,74,2439 Brownsville Rd,15210,Carrick
+314930,238,74,3801 Brighton Rd,15212,Brighton Heights
+314931,239,74,929 Western Ave,15233,Allegheny West
+314932,240,74,5230 Penn Avenue,15224,Bloomfield
+314933,241,74,4801 Centre Ave,15213,Shadyside
+314934,242,74,5173 Penn Avenue,15224,Bloomfield
+314935,244,74,5854 Ellsworth Avenue,15232,Shadyside
+314936,245,74,1018 W North Ave,15233,Manchester
+314937,246,74,920 Western Ave,15233,Allegheny West
+314938,247,74,947 Western Ave,15233,Allegheny West
+314939,248,74,3639 California Ave,15212,Brighton Heights
+314940,249,74,3800 Brighton Rd,15212,Brighton Heights
+314941,250,74,806 Western Ave,15233,Allegheny West
+314942,251,74,820 Western Ave,15233,Allegheny West
+314943,252,74,427 E Ohio St,15212,East Allegheny
+314944,253,74,948 Western Ave,15233,Allegheny West
+314945,254,74,607 E Ohio St,15212,East Allegheny
+314946,255,74,1549 Lowrie St,15212,Troy Hill
+314947,256,74,1706 Lowrie St,15212,Troy Hill
+314948,257,74,510 E Ohio St,15212,East Allegheny
+314949,258,74,502 E Ohio St,15212,East Allegheny
+314950,259,74,1614 Lowrie St,15212,Troy Hill
+314951,260,74,402 East Ohio Street,15212,East Allegheny
+314952,261,74,519 E Ohio St,15212,East Allegheny
+314953,262,74,507 E Ohio St,15212,East Allegheny
+314954,263,74,1619 Lowrie St,15212,Troy Hill
+314955,264,74,426 E Ohio St,15212,East Allegheny
+314956,265,74,3615 California Ave,15212,Brighton Heights
+314957,266,74,3645 California Ave,15212,Brighton Heights
+314958,267,74,3713 Brighton Rd,15212,Brighton Heights
+314959,268,74,541 E Ohio St,15212,East Allegheny
+314960,269,74,736 Brownsville Rd,15210,Knoxville
+314961,270,74,2100 East Carson Street,15203,South Side Flats
+314962,271,74,2222 East Carson Street,15203,South Side Flats
+314963,272,74,2533 Pioneer Ave,15226,Brookline
+314964,273,74,1530 Brownsville Rd,15210,Carrick
+314965,274,74,2528 East Carson Street,15203,South Side Flats
+314966,275,74,1938 S 18th St,15203,South Side Slopes
+314967,276,74,1100 East Carson Street,15203,South Side Flats
+314968,277,74,2028 S 18th St,15203,South Side Slopes
+314969,278,74,2026 East Carson Street,15203,South Side Flats
+314970,279,74,153 S 18th St,15203,South Side Flats
+314971,280,74,601 Brownsville Road,15210,Knoxville
+314972,281,74,1734 East Carson Street,15203,South Side Flats
+314973,282,74,2116 Brownsville Rd,15210,Carrick
+314974,283,74,2523 S 18th St,15210,South Side Slopes
+314975,284,74,5817 Bryant Street,15206,Highland Park
+314976,286,74,5115 Coral Street,15224,Bloomfield
+314977,288,74,5724 Ellsworth Avenue,15232,Shadyside
+314978,289,74,10 Childrens Way,15212,Allegheny Center
+314979,290,74,806 Fifth Avenue,15219,Bluff
+314980,291,74,806 Western Ave,15233,Allegheny West
+314981,292,74,814 Brookline Blvd,15226,Brookline
+314982,293,74,5400 Penn Avenue,15224,Bloomfield
+314983,294,74,5906 Bryant Street,15206,Highland Park
+314984,296,74,5724 Ellsworth Avenue,15232,Shadyside
+314985,297,74,5819 Ellsworth Avenue,15232,Shadyside
+314986,298,74,1801 Chislett Street,15206,Morningside
+314987,301,74,3445 Ward Street,15213,Central Oakland
+314988,303,74,1304 Fifth Avenue,15219,Bluff
+314989,304,74,5215 Centre Ave,15224,Bloomfield
+314990,305,74,5901 Ellsworth Avenue,15232,Shadyside
+314991,306,74,547 Greenfield Ave,15207,Greenfield
+314992,308,74,5941 Penn Avenue,15206,East Liberty
+314993,309,74,5752 Ellsworth Avenue,15232,Shadyside
+314994,310,74,5849 Ellsworth Avenue,15232,Shadyside
+314995,311,74,1030 Fifth Avenue,15219,Bluff
+314996,312,74,5901 Bryant Street,15206,Highland Park
+314997,313,74,1420 Fifth Avenue,15219,Bluff
+314998,315,74,301 Charles Street,15210,Knoxville
+314999,316,74,7106 Edgerton Avenue,15208,Point Breeze
+315000,317,74,5850 Ellsworth Avenue,15232,Shadyside
+315001,318,74,5430 Penn Avenue,15206,Bloomfield
+315002,319,74,5743 Ellsworth Avenue,15232,Shadyside
+315003,320,74,6519 Penn Avenue,15206,Larimer
+315004,321,74,1506 Fifth Avenue,15219,Bluff
+315005,322,74,6235 Penn Avenue,15206,East Liberty
+315006,324,74,5883 Ellsworth Avenue,15206,Shadyside
+315007,325,74,5890 Ellsworth Avenue,15232,Shadyside
+315008,327,74,3625 California Ave,15212,Brighton Heights
+315009,328,74,1197 West Carson Street,15219,South Shore
+315010,329,74,113 Merrimac Street,15211,Mount Washington
+315011,330,74,720 Sherwood Ave,15204,Sheraden
+315012,331,74,1437 E Steuben St,15205,Crafton Heights
+315013,332,74,1338 Chartiers Ave,15220,Elliott
+315014,333,74,3131 Chartiers Ave,15204,Sheraden
+315015,334,74,2827 Chartiers Ave,15204,Sheraden
+315016,335,74,1607 Broadway Ave,15216,Beechview
+315017,336,74,2601 Chartiers Ave,15204,Crafton Heights
+315018,337,74,2625 Chartiers Ave,15204,Crafton Heights
+315019,338,74,2269 Noblestown Road,15205,Westwood
+315020,339,74,1942 Broadway Ave,15216,Beechview
+315021,340,74,1621 Broadway Ave,15216,Beechview
+315022,341,74,4028 Beechwood Boulevard,15217,Greenfield
+315023,342,74,1805 Morningside Avenue,15206,Morningside
+315024,343,74,1001 Chartiers Ave,15220,Elliott
+315025,344,74,1044 Goehring Street,15212,Spring Hill-City View
+315026,345,74,930 Chartiers Ave,15220,Elliott
+315027,346,74,111 Grandview Avenue,15211,Mount Washington
+315028,347,74,2102 Broadway Ave,15216,Beechview
+315029,348,74,1553 Broadway Ave,15216,Beechview
+315030,349,74,122 Shiloh Street,15211,Mount Washington
+315031,350,74,218 Shiloh Street,15211,Mount Washington
+315032,351,74,167 Wabash St,15220,West End
+315033,352,74,3045 Chartiers Ave,15204,Sheraden
+315034,353,74,1461 Chartiers Ave,15204,Crafton Heights
+315035,354,74,301 Virginia Ave,15211,Mount Washington
+315036,355,74,162 Steuben St,15220,Elliott
+315037,356,74,1461 E Steuben St,15205,Crafton Heights
+315038,357,74,3860 Chartiers Ave,15204,Windgap
+315039,358,74,725 Sherwood Ave,15204,Sheraden
+315040,359,74,122 Shiloh Street,15211,Mount Washington
+315041,360,74,123 Steuben St,15220,West End
+315042,361,74,5 Grandview Avenue,15211,Mount Washington
+315043,362,74,1427 Chartiers Ave,15220,Crafton Heights
+315044,363,74,913 Chartiers Ave,15220,Elliott
+315045,364,74,3018 Chartiers Ave,15204,Sheraden
+315046,365,74,331 South Bouquet Street,15213,Central Oakland
+315047,367,74,3400 Fifth Avenue,15213,Central Oakland
+315048,368,74,2912 Sheraden Blvd,15204,Sheraden
+315049,371,74,6 Bailey Avenue,15211,Mount Washington
+315050,372,74,39 Wabash St,15220,West End
+315051,373,74,500 South Main Street,15220,West End
+315052,374,74,96 Virginia Ave,15211,Mount Washington
+315053,375,74,175 Steuben St,15220,West End
+315054,378,74,1505 Stratmore Ave,15205,Crafton Heights
+315055,379,74,863 Steuben St,15220,Elliott
+315056,380,74,212 Stratmore Ave,15205,Crafton Heights
+315057,381,74,501 Alter St,15106,East Carnegie
+315058,382,74,234 Shiloh Street,15211,Mount Washington
+315059,383,74,2855 Chartiers Ave,15204,Sheraden
+315060,384,74,1330 Hassler Street,15220,Elliott
+315061,385,74,2966 Chartiers Ave,15204,Sheraden
+315062,386,74,5 Grandview Avenue,15211,Mount Washington
+315063,387,74,3032 Chartiers Ave,15204,Sheraden
+315064,388,74,131 Shiloh Street,15211,Mount Washington
+315065,389,74,1036 Chartiers Ave,15220,Elliott
+315066,390,74,1550 Beechview Avenue,15216,Beechview
+315067,391,74,649 Hillsboro Street,15204,Sheraden
+315068,392,74,3636 Boulevard of the Allies,15213,Central Oakland
+315069,393,74,2912 Sheraden Blvd,15204,Sheraden
+315070,394,74,1137 Brownsville Rd,15210,Carrick
+315071,395,74,7113 Reynolds Street,15208,Point Breeze
+315072,396,74,930 Chartiers Ave,15220,Elliott
+315073,397,74,1835 Centre Ave,15219,Crawford-Roberts
+315074,399,74,341 South Bouquet Street,15213,Central Oakland
+315075,401,74,518 Brownsville Rd,15210,Knoxville
+315076,402,74,1141 North Highland Avenue,15206,Highland Park
+315077,403,74,1000 Chartiers Ave,15220,Elliott
+315078,404,74,201 South Highland Avenue,15206,Shadyside
+315079,405,74,235 South Highland Avenue,15206,Shadyside
+315080,407,74,1101 Brownsville Rd,15210,Carrick
+315081,408,74,301 South Negley Avenue,15232,East Liberty
+315082,409,74,5865 Ellsworth Avenue,15232,Shadyside
+315083,410,74,5842 Ellsworth Avenue,15232,Shadyside
+315084,413,74,3900 Perrysville Ave,15214,Perry North
+315085,414,74,525 North Shore Drive,15212,North Shore
+315086,416,74,3300 Brighton Road,15212,Brighton Heights
+315087,417,74,20 East General Robinson Street,15212,North Shore
+315088,418,74,100 Mazeroski Way,15212,North Shore
+315089,419,74,525 North Shore Drive,15212,North Shore
+315090,420,74,419 North Shore Drive,15212,North Shore
+315091,421,74,103 Federal St,15212,North Shore
+315092,422,74,1808 Penn Ave,15222,Strip District
+315093,423,74,1700 Penn Avenue,15222,Strip District
+315094,424,74,243 Grandview Avenue,15211,Mount Washington
+315095,425,74,1809 Penn Avenue,15222,Strip District
+315096,426,74,North Shore Drive,15212,North Shore
+315097,427,74,1907 Penn Avenue,15222,Strip District
+315098,428,74,2125 Penn Avenue,15222,Strip District
+315099,429,74,3272 Surban Street,15204,Sheraden
+315100,430,74,2031 Penn Avenue,15222,Strip District
+315101,431,74,229 Grandview Avenue,15211,Mount Washington
+315102,432,74,950 Ridge Avenue,15233,Allegheny West
+315103,433,74,792 West General Robinson Street,15212,North Shore
+315104,434,74,525 North Shore Drive,15212,North Shore
+315105,435,74,714 Culloden Way,15232,Shadyside
+315106,436,74,4181 Centre Ave,15213,Upper Hill
+315107,438,74,2330 Penn Avenue,15222,Strip District
+315108,439,74,3138 Dobson St,15219,Polish Hill
+315109,440,74,1720 Centre Ave,15219,Crawford-Roberts
+315110,441,74,2603 Shady Avenue,15217,Squirrel Hill South
+315111,443,74,1711 Liberty Avenue,15222,Strip District
+315112,445,74,4201 Murray Ave,15217,Greenfield
+315113,446,74,355 Allegheny Avenue,15212,North Shore
+315114,447,74, North Shore Drive,15212,Chateau
+315115,448,74,574 West General Robinson Street,15212,North Shore
+315116,449,74,2220 Penn Avenue,15222,Strip District
+315117,450,74,1630 Penn Avenue,15222,Strip District
+315118,451,74,1901 Centre Ave,15219,Crawford-Roberts
+315119,452,74,470 30th Street,15219,Polish Hill
+315120,453,74,100 Federal St,15212,North Shore
+315121,454,74,Chuck Noll Way,15212,North Shore
+315122,455,74,Chuck Noll Way,15212,North Shore
+315123,456,74,3223 Brereton Street,15219,Polish Hill
+315124,457,74,5120 Stanton Avenue,15201,Central Lawrenceville
+315125,458,74,12 Federal St,15212,North Shore
+315126,459,74,12 Federal St,15212,North Shore
+315127,460,74,2121 Smallman Street,15222,Strip District
+315128,461,74,644 West General Robinson Street,15212,North Shore
+315129,462,74,1435 Grandview Avenue,15211,Duquesne Heights
+315130,463,74,1801 Centre Ave,15219,Crawford-Roberts
+315131,464,74,355 Allegheny Ave,15212,North Shore
+315132,465,74,1603 Penn Avenue,15222,Strip District
+315133,466,74,100 Mazeroski Way,15212,North Shore
+315134,467,74,3119 Brereton Street,15219,Polish Hill
+315135,468,74,Liberty Avenue,15222,Strip District
+315136,469,74,3001 Brereton Street,15219,Polish Hill
+315137,470,74,355 Allegheny Ave,15212,North Shore
+315138,471,74,325 Grandview Avenue,15211,Mount Washington
+315139,472,74,355 Allegheny Ave,15212,North Shore
+315140,473,74,574 West General Robinson Street,15212,North Shore
+315141,474,74,3103 Penn Avenue,15201,Strip District
+315142,475,74,3237 Dobson Street,15219,Polish Hill
+315143,476,74,1901 Centre Ave,15219,Crawford-Roberts
+315144,477,74,419 North Shore Drive,15212,North Shore
+315145,478,74,265 Devilliers Street,15219,Bedford Dwellings
+315146,479,74,3279 Bigelow Boulevard,15219,Polish Hill
+315147,480,74,2000 Brownsville Road,15210,Carrick
+315148,481,74,247 North Shore Drive,15212,North Shore
+315149,482,74,355 Allegheny Ave,15212,Chateau
+315150,483,74,353 North Shore Drive,15212,North Shore
+315151,484,74,5023 Bayard Street,15213,Shadyside
+315152,485,74,2020 Smallman Street,15222,Strip District
+315153,486,74,North Shore Drive,15212,North Shore
+315154,487,74,1908 Smallman Street,15222,Strip District
+315155,488,74,3001 Brereton Street,15219,Polish Hill
+315156,489,74,684 West General Robinson Street,15212,North Shore
+315157,490,74,2801 Penn Avenue,15222,Strip District
+315158,491,74,275 North Shore Drive,15212,North Shore
+315159,492,74,2329 Penn Avenue,15222,Strip District
+315160,493,74,100 Mazeroski Way,15212,North Shore
+315161,494,74,128 North Craig Street,15213,North Oakland
+315162,495,74,3880 Perrysville Ave,15214,Perry North
+315163,496,74, North Shore Drive,15212,Chateau
+315164,497,74,2801 Liberty Avenue,15222,Polish Hill
+315165,499,74,1012 Greenfield Ave,15217,Greenfield
+315166,500,74,100 Mazeroski Way,15212,North Shore
+315167,501,74,3616 Fifth Avenue,15213,Central Oakland
+315168,503,74,684 West General Robinson Street,15212,North Shore
+315169,504,74,2431 Wylie Avenue,15219,Middle Hill
+315170,505,74,3300 Liberty Avenue,15201,Lower Lawrenceville
+315171,506,74,106 East General Robinson Street,15212,North Shore
+315172,507,74,2115 Penn Avenue,15222,Strip District
+315173,508,74,1725 Penn Avenue,15222,Strip District
+315174,509,74,3060 Brereton Street,15219,Polish Hill
+315175,510,74,West General Robinson Street,15212,North Shore
+315176,511,74,2904 Penn Avenue,15201,Strip District
+315177,512,74,1817 Brownsville Rd,15210,Carrick
+315178,513,74,3602 Forbes Ave,15213,Central Oakland
+315179,514,74,355 Allegheny Ave,15212,North Shore
+315180,515,74,Tony Dorsett Drive,15212,North Shore
+315181,516,74,935 Herron Avenue,15219,Polish Hill
+315182,517,74,100 Art Rooney Avenue,15212,North Shore
+315183,518,74,West General Robinson Street,15212,North Shore
+315184,519,74,3533 Forbes Ave,15213,Central Oakland
+315185,520,74,2120 Penn Avenue,15222,Strip District
+315186,521,74,1811 Brownsville Rd,15210,Carrick
+315187,522,74,1916 Smallman Street,15222,Strip District
+315188,525,74,3530 Forbes Ave,15213,Central Oakland
+315189,531,74,905 Watson Street,15219,Bluff
+315190,532,74,3101 Brereton Street,15219,Polish Hill
+315191,533,74,2505 Penn Avenue,15222,Strip District
+315192,534,74,220 22nd Street,15222,Strip District
+315193,535,74,2205 Penn Avenue,15222,Strip District
+315194,536,74,201 Grandview Avenue,15211,Mount Washington
+315195,537,74,1728 Smallman Street,15222,Strip District
+315196,538,74,3000 Penn Avenue,15201,Strip District
+315197,540,74,2315 Penn Avenue,15222,Strip District
+315198,541,74,2301 Smallman Street,15222,Strip District
+315199,542,74,3888 East Street,15214,Perry North
+315200,543,74,415 South Craig Street,15213,North Oakland
+315201,544,74,1100 Allegheny Ave,15233,Allegheny West
+315202,546,74,2400 Smallman Street,15222,Strip District
+315203,547,74,2020 Smallman Street,15222,Strip District
+315204,548,74, Mazeroski Statue,15212,North Shore
+315205,549,74,100 Federal St,15212,North Shore
+315206,551,74,Tony Dorsett Drive,15212,North Shore
+315207,552,74,2301 Smallman Street,15222,Strip District
+315208,553,74,2603 Shady Avenue,15217,Squirrel Hill South
+315209,554,74,1226 Herron Avenue,15219,Polish Hill
+315210,555,74,Tony Dorsett Drive,15212,North Shore
+315211,556,74,115 Grandview Avenue,15211,Mount Washington
+315212,557,74,2608 Penn Avenue,15222,Strip District
+315213,558,74,2050 Liberty Avenue,15222,Strip District
+315214,559,74,547 Roberts Street,15219,Crawford-Roberts
+315215,560,74,419 North Shore Drive,15212,North Shore
+315216,561,74,2621 Centre Ave,15219,Middle Hill
+315217,562,74,1801 Jancey Street,15206,Morningside
+315218,563,74,1668 Perrysville Ave,15212,Central Northside
+315219,564,74,684 West General Robinson Street,15212,North Shore
+315220,565,74,2026 Penn Avenue,15222,Strip District
+315221,567,74,355 Allegheny Ave,15212,Chateau
+315222,569,74,792 West General Robinson Street,15212,North Shore
+315223,570,74,525 North Shore Drive,15212,North Shore
+315224,571,74,1736 Penn Avenue,15222,Strip District
+315225,572,74,20th Street,15222,Strip District
+315226,573,74,West General Robinson Street,15212,North Shore
+315227,574,74,1711 Liberty Avenue,15222,Strip District
+315228,575,74,393 North Shore Drive,15212,North Shore
+315229,576,74,792 West General Robinson Street,15212,North Shore
+315230,578,74,353 North Shore Drive,15212,North Shore
+315231,579,74,4215 Fifth Avenue,15213,North Oakland
+315232,580,74,1828 Brownsville Rd,15210,Carrick
+315233,581,74,790-792 West General Robinson Street,15212,North Shore
+315234,582,74,1532 Brownsville Road,15210,Carrick
+315235,584,74,3501 Boulevard of the Allies,15213,South Oakland
+315236,585,74,3218 Camp Street,15219,Upper Hill
+315237,586,74,2520 East Carson Street,15203,South Side Flats
+315238,587,74,1 Bailey Avenue,15211,Mount Washington
+315239,588,74,3145 Banksville Road,15216,Banksville
+315240,589,74,2338 East Carson Street,15203,South Side Flats
+315241,590,74,2546 Centre Ave,15219,Terrace Village
+315242,591,74,115 North Highland Avenue,15206,East Liberty
+315243,592,74,6566 Forbes Ave,15217,Point Breeze
+315244,593,74,2828 Perrysville Avenue,15214,Perry South
+315245,594,74,4618 Baum Boulevard,15213,North Oakland
+315246,595,74,110 North Beatty Street,15206,East Liberty
+315247,597,74,2502 East Carson Street,15203,South Side Flats
+315248,598,74,5042 Second Avenue,15207,Hazelwood
+315249,599,74,1817 Fifth Avenue,15219,Crawford-Roberts
+315250,600,74,4208 Centre Ave,15219,Terrace Village
+315251,603,74,1941 S 18th St,15203,South Side Slopes
+315252,607,74,6012 Centre Ave,15206,Shadyside
+315253,608,74,612 Watt Street,15219,Middle Hill
+315254,610,74,6001 Penn Avenue,15206,East Liberty
+315255,611,74,1940 Murray Ave,15217,Squirrel Hill South
+315256,613,74,5403 Friendship Avenue,15206,Bloomfield
+315257,614,74,122 Virginia Ave,15211,Mount Washington
+315258,616,74,3219 Terrace Street,15213,West Oakland
+315259,617,74,3864 Second Avenue,15219,South Oakland
+315260,618,74,5327 Second Avenue,15207,Hazelwood
+315261,619,74,5739 Forbes Ave,15217,Squirrel Hill North
+315262,620,74,1000 Bryn Mawr Road,15219,Upper Hill
+315263,622,74,5840 Buttermilk Hollow Road,15207,Lincoln Place
+315264,625,74,422 Semple Street,15213,Central Oakland
+315265,627,74,5947 Penn Avenue,15206,East Liberty
+315266,628,74,4506 Penn Avenue,15224,Central Lawrenceville
+315267,629,74,1688 Murray Ave,15217,Squirrel Hill North
+315268,630,74,6018 Centre Ave,15206,Shadyside
+315269,631,74,509 Stevenson Street,15219,Bluff
+315270,632,74,4376 Murray Ave,15217,Greenfield
+315271,633,74,4800 Second Avenue,15207,Hazelwood
+315272,634,74,11 Bailey Avenue,15211,Mount Washington
+315273,635,74,4910 Second Avenue,15207,Hazelwood
+315274,636,74,3235 Fifth Avenue,15213,West Oakland
+315275,637,74,2030 Centre Avenue,15219,Middle Hill
+315276,638,74,4901 Second Avenue,15207,Hazelwood
+315277,642,74,5041 Second Avenue,15207,Hazelwood
+315278,643,74,137 Johnston Avenue,15207,Hazelwood
+315279,644,74,2105 Centre Ave,15219,Middle Hill
+315280,646,74,2316 Webster Avenue,15219,Middle Hill
+315281,647,74,1324 Forbes Ave,15219,Bluff
+315282,648,74,5968 Baum Boulevard,15206,East Liberty
+315283,650,74, Melancthon Street,15207,Hazelwood
+315284,651,74,2176 Centre Ave,15219,Middle Hill
+315285,652,74,3919 Perrysville Ave,15214,Perry North
+315286,653,74,4025 Perrysville Ave,15214,Perry North
+315287,654,74,4061 Perrysville Ave,15214,Perry North
+315288,655,74,2200 Centre Ave,15219,Middle Hill
+315289,656,74,710 E Warrington Ave,15210,Allentown
+315290,657,74,1901 Brighton Rd,15212,California-Kirkbride
+315291,658,74,5864 Forbes Ave,15217,Squirrel Hill South
+315292,659,74,2297 Centre Ave,15219,Middle Hill
+315293,660,74,3272 Surban Street,15204,Sheraden
+315294,661,74,1218 Grandview Avenue,15211,Mount Washington
+315295,662,74,501 Grandview Avenue,15211,Mount Washington
+315296,663,74,515 Grandview Avenue,15211,Mount Washington
+315297,664,74,12 East Meyers Street,15210,Carrick
+315298,665,74,7147 Hamilton Avenue,15208,Homewood South
+315299,667,74,3219 Terrace Street,15213,West Oakland
+315300,668,74,6210 Penn Avenue,15206,Shadyside
+315301,670,74,1605 Centre Ave,15219,Crawford-Roberts
+315302,672,74,2330 North Charles Street,15214,Perry South
+315303,673,74,4942 Second Avenue,15207,Hazelwood
+315304,674,74,4944 Second Avenue,15207,Hazelwood
+315305,676,74,6112 Penn Avenue,15206,East Liberty
+315306,677,74,1115 Grandview Avenue,15211,Mount Washington
+315307,678,74,6007 Centre Ave,15206,Shadyside
+315308,679,74,2703 Penn Avenue,15222,Strip District
+315309,680,74,4912 Glenwood Avenue,15207,Hazelwood
+315310,681,74,3501 Forbes Ave,15213,Central Oakland
+315311,682,74,221 Atwood St,15213,Central Oakland
+315312,683,74,6325 Penn Avenue,15206,Shadyside
+315313,684,74,5209 Interboro Avenue,15207,Lincoln Place
+315314,685,74,4940 Second Avenue,15207,Hazelwood
+315315,686,74,1723 Fifth Avenue,15219,Bluff
+315316,687,74,3601 Fifth Avenue,15213,West Oakland
+315317,688,74,6001 Penn Avenue,15206,East Liberty
+315318,689,74,1402 Fifth Avenue,15219,Central Business District
+315319,690,74,4515 Forbes Ave,15213,North Oakland
+315320,691,74,402 Kirkpatrick Street,15213,Terrace Village
+315321,692,74,400 Semple Street,15213,Central Oakland
+315322,693,74,Zulema Street,15213,South Oakland
+315323,694,74,3301 Milwaukee Street,15219,Upper Hill
+315324,695,74,1700 Murray Ave,15217,Squirrel Hill South
+315325,696,74,2507 Centre Ave,15219,Terrace Village
+315326,697,74,802 Brookline Boulevard,15226,Brookline
+315327,698,74,2329 Beechwood Boulevard,15217,Squirrel Hill South
+315328,699,74,1522 Fifth Avenue,15219,Bluff
+315329,700,74,7602 Forbes Ave,15221,Regent Square
+315330,701,74,4630 Centre Ave,15213,North Oakland
+315331,702,74,3714 Forbes Ave,15213,Central Oakland
+315332,703,74,2343 Brownsville Rd,15210,Carrick
+315333,704,74,1846 Fifth Avenue,15219,Bluff
+315334,705,74,1712 Fifth Avenue,15219,Bluff
+315335,706,74,420 South Craig Street,15213,North Oakland
+315336,707,74,512 North Braddock Avenue,15208,Homewood South
+315337,708,74,745 South Braddock Avenue,15221,Regent Square
+315338,709,74,5003 Second Avenue,15207,Hazelwood
+315339,710,74,1224 East Carson Street,15203,South Side Flats
+315340,711,74,3300 Webster Avenue,15219,Middle Hill
+315341,712,74,4353 Murray Ave,15217,Greenfield
+315342,713,74,3348 Beechwood Boulevard,15217,Squirrel Hill South
+315343,714,74,3805 Forbes Ave,15213,Central Oakland
+315344,715,74,712 Adelaide Street,15219,Upper Hill
+315345,716,74,3503 Beechwood Boulevard,15217,Greenfield
+315346,717,74,2201 Wylie Avenue,15219,Middle Hill
+315347,719,74,2503 Centre Ave,15219,Middle Hill
+315348,720,74,1688 Murray Avenue,15217,Squirrel Hill North
+315349,721,74,6009 Penn Avenue,15206,East Liberty
+315350,722,74,2606 Centre Ave,15219,Terrace Village
+315351,723,74,1290 Mifflin Rd,15207,Lincoln Place
+315352,724,74,301 South Craig Street,15213,North Oakland
+315353,727,74,4584 Browns Hill Road,15217,Hazelwood
+315354,728,74,5600 Forbes Ave,15217,Squirrel Hill North
+315355,729,74,1630 Fifth Avenue,15219,Bluff
+315356,730,74,2400 Centre Ave,15219,Middle Hill
+315357,731,74,1833 Fifth Avenue,15219,Crawford-Roberts
+315358,732,74,2152 Wylie Avenue,15219,Middle Hill
+315359,733,74,901 Bryn Mawr Road,15219,Upper Hill
+315360,734,74,2105 Wightman Street,15217,Squirrel Hill South
+315361,736,74,205 Saline Street,15207,Greenfield
+315362,737,74,2209 Murray Ave,15217,Squirrel Hill South
+315363,738,74,611 Second Avenue,15219,Central Business District
+315364,739,74,1425 Fifth Avenue,15219,Central Business District
+315365,741,74,1624 Centre Ave,15219,Crawford-Roberts
+315366,742,74,7101 Hamilton Avenue,15208,Homewood South
+315367,744,74,2203 Wylie Avenue,15219,Middle Hill
+315368,745,74,1209 Forbes Ave,15219,Bluff
+315369,746,74,1500 Centre Ave,15219,Crawford-Roberts
+315370,747,74,601 Blessing Street,15213,Upper Hill
+315371,749,74, East Busway,15206,Larimer
+315372,750,74,Second Avenue,15219,South Oakland
+315373,751,74,514 Oakwood Street,15208,Homewood South
+315374,752,74,3802 Acorn Street,15207,Greenfield
+315375,753,74,6369 East Liberty Boulevard,15206,East Liberty
+315376,754,74,12 East Meyers Street,15210,Carrick
+315377,755,74,410 North Highland Avenue,15206,East Liberty
+315378,756,74,734 Mercer Street,15219,Crawford-Roberts
+315379,757,74,420 North Braddock Avenue,15208,Homewood South
+315380,758,74,2901 North Charles Street,15214,Perry South
+315381,759,74,404 South Craig Street,15213,North Oakland
+315382,760,74,4800 Second Avenue,15207,Hazelwood
+315383,761,74,2950 South Water Street,15203,South Side Flats
+315384,762,74,848 E Warrington Ave,15210,Allentown
+315385,763,74,1824 Murray Ave,15217,Squirrel Hill South
+315386,764,74,5819 Forbes Ave,15217,Squirrel Hill North
+315387,765,74,2800 North Charles Street,15214,Perry South
+315388,766,74,6425 Penn Avenue,15206,Larimer
+315389,768,74,1401 Brownsville Rd,15210,Carrick
+315390,769,74,6736 Reynolds Street,15206,Point Breeze
+315391,771,74,2714 Brownsville Rd,15227,Carrick
+315392,773,74,4635 Centre Ave,15213,North Oakland
+315393,774,74,1704 Shady Avenue,15217,Squirrel Hill North
+315394,777,74,Sennott Street,15213,Central Oakland
+315395,778,74,1704 Shady Avenue,15217,Squirrel Hill South
+315396,779,74,1648 Shady Avenue,15217,Squirrel Hill North
+315397,780,74,2101 Murray Ave,15217,Squirrel Hill South
+315398,781,74,2104 Murray Ave,15217,Squirrel Hill South
+315399,782,74,1936 Murray Ave,15217,Squirrel Hill South
+315400,783,74,5865 Forbes Ave,15217,Squirrel Hill North
+315401,784,74,2211 Mahon Street,15219,Middle Hill
+315402,785,74,2256 Brownsville Rd,15210,Carrick
+315403,786,74,5854 Forbes Ave,15217,Squirrel Hill South
+315404,787,74,2201 Brownsville Rd,15210,Carrick
+315405,788,74,2120 Murray Ave,15217,Squirrel Hill South
+315406,789,74,5849 Forbes Ave,15217,Squirrel Hill North
+315407,790,74,1020 East Carson Street,15203,South Side Flats
+315408,791,74,2336 Brownsville Rd,15210,Carrick
+315409,793,74,2339 Beechwood Boulevard,15217,Squirrel Hill South
+315410,794,74,3845 Dawson Street,15213,Central Oakland
+315411,795,74,6349-6387 Penn Avenue,15206,East Liberty
+315412,796,74,409 Gettysburg Street,15206,Point Breeze
+315413,797,74,5887 Forbes Ave,15217,Squirrel Hill North
+315414,798,74,1916 Murray Ave,15217,Squirrel Hill South
+315415,799,74,2112 Murray Ave,15217,Squirrel Hill South
+315416,800,74,2125 Murray Ave,15217,Squirrel Hill South
+315417,801,74,2017 Murray Ave,15217,Squirrel Hill South
+315418,802,74,830 E Warrington Ave,15210,Allentown
+315419,803,74,1937 Murray Ave,15217,Squirrel Hill South
+315420,804,74,3272 Surban Street,15204,Sheraden
+315421,805,74,3912 Perrysville Ave,15214,Perry North
+315422,806,74,5834 Forward Avenue,15217,Squirrel Hill South
+315423,807,74,2901 Banksville Road,15216,Banksville
+315424,808,74,20 East General Robinson Street,15212,North Shore
+315425,809,74,503 Mountain Avenue,15210,St. Clair
+315426,810,74,804 E Warrington Ave,15210,Allentown
+315427,811,74,2216 Brownsville Rd,15210,Carrick
+315428,813,74,755 E Warrington Ave,15210,Allentown
+315429,815,74,4102 Perrysville Ave,15214,Perry North
+315430,816,74,1728 East Carson Street,15203,South Side Flats
+315431,817,74,2010 East Carson Street,15203,South Side Flats
+315432,818,74,2114 East Carson Street,15203,South Side Flats
+315433,819,74,2134 East Carson Street,15203,South Side Flats
+315434,820,74,6428 Forbes Ave,15217,Squirrel Hill South
+315435,821,74,1926 Rockledge Street,15212,Spring Hill-City View
+315436,822,74,2609 Murray Ave,15217,Squirrel Hill South
+315437,823,74,1832 East Carson Street,15203,South Side Flats
+315438,824,74,1835 Centre Ave,15219,Crawford-Roberts
+315439,825,74,1850 Centre Ave,15219,Crawford-Roberts
+315440,826,74,423 Grove Street,15219,Middle Hill
+315441,827,74,2101 Centre Ave,15219,Middle Hill
+315442,828,74,1901 Centre Ave,15219,Crawford-Roberts
+315443,829,74,4613 Centre Ave,15213,North Oakland
+315444,830,74,1601 Brighton Rd,15212,California-Kirkbride
+315445,831,74,4632 Centre Ave,15213,North Oakland
+315446,832,74,2337 Centre Ave,15219,Middle Hill
+315447,833,74,4653 Centre Ave,15213,North Oakland
+315448,835,74,1400 East Carson Street,15203,South Side Flats
+315449,836,74,5836 Forbes Ave,15217,Squirrel Hill South
+315450,837,74,2909 Centre Ave,15219,Middle Hill
+315451,838,74,1901 Centre Ave,15219,Crawford-Roberts
+315452,839,74,5819 Forbes Ave,15217,Squirrel Hill South
+315453,840,74,5839 Forbes Ave,15217,Squirrel Hill North
+315454,841,74,1705 East Carson Street,15203,South Side Flats
+315455,843,74,2177 Centre Ave,15219,Middle Hill
+315456,844,74,1739 East Carson Street,15203,South Side Flats
+315457,845,74,1122 East Carson Street,15203,South Side Flats
+315458,846,74,1315 East Carson Street,15203,South Side Flats
+315459,847,74,146 Parkfield Street,15210,Carrick
+315460,848,74,996 Saw Mill Run Boulevard,15220,Duquesne Heights
+315461,849,74,1839 Murray Ave,15217,Squirrel Hill South
+315462,851,74,5802 Forbes Ave,15217,Squirrel Hill South
+315463,852,74,14 Elmore Street,15219,Middle Hill
+315464,853,74,5017 Second Avenue,15207,Hazelwood
+315465,854,74,1800 Murray Ave,15217,Squirrel Hill South
+315466,855,74,2209 Murray Ave,15217,Squirrel Hill South
+315467,856,74,5739 Forbes Ave,15217,Squirrel Hill South
+315468,857,74,5800 Forbes Ave,15217,Squirrel Hill North
+315469,858,74,2001 Centre Ave,15219,Middle Hill
+315470,859,74,5800 Forbes Ave,15217,Squirrel Hill South
+315471,860,74,2137 Centre Ave,15219,Middle Hill
+315472,861,74,1707 Murray Ave,15217,Squirrel Hill South
+315473,862,74,5006 Second Avenue,15207,Hazelwood
+315474,863,74,2338 Murray Ave,15217,Squirrel Hill South
+315475,864,74,1720 Murray Ave,15217,Squirrel Hill South
+315476,865,74,1 Poplar Street,15205,Westwood
+315477,868,74,5822 Forbes Ave,15217,Squirrel Hill South
+315478,870,74,5804 Forward Avenue,15217,Squirrel Hill South
+315479,871,74,200 Flowers Avenue,15207,Hazelwood
+315480,872,74,1730 Murray Ave,15217,Squirrel Hill South
+315481,873,74,5808 Forbes Ave,15217,Squirrel Hill South
+315482,874,74,2418 Durbin Street,15205,Oakwood
+315483,875,74,1700 East Carson Street,15203,South Side Flats
+315484,876,74,2219 Murray Ave,15217,Squirrel Hill South
+315485,877,74,1832 East Carson Street,15203,South Side Flats
+315486,879,74,1704 Noblestown Road,15205,Westwood
+315487,880,74,2648 North Charles Street,15214,Perry South
+315488,881,74,1933 East Carson Street,15203,South Side Flats
+315489,882,74,2100 Noblestown Road,15205,Westwood
+315490,883,74,1603 Grandview Avenue,15211,Duquesne Heights
+315491,884,74,2163 Centre Ave,15219,Middle Hill
+315492,885,74,2145 Centre Ave,15219,Middle Hill
+315493,886,74,238 Shady Avenue,15206,Shadyside
+315494,887,74,2000 Centre Ave,15219,Crawford-Roberts
+315495,888,74,1688 Murray Ave,15217,Squirrel Hill North
+315496,889,74,2121 Centre Ave,15219,Middle Hill
+315497,890,74,5802 Forbes Ave,15217,Squirrel Hill North
+315498,891,74,5813 Forbes Ave,15217,Squirrel Hill North
+315499,893,74,430 Greenfield Ave,15207,Greenfield
+315500,894,74,7201 Frankstown Avenue,15208,Homewood North
+315501,895,74,20 East General Robinson Street,15212,North Shore
+315502,896,74,117 South Bouquet Street,15213,Central Oakland
+315503,897,74,5876 Forbes Ave,15217,Squirrel Hill South
+315504,898,74,5819 Forbes Ave,15217,Squirrel Hill North
+315505,899,74,5885 Forbes Ave,15217,Squirrel Hill North
+315506,900,74,2827 Chartiers Ave,15204,Sheraden
+315507,901,74,1900 Woodville Avenue,15220,West End
+315508,902,74,5880 Forbes Ave,15217,Squirrel Hill South
+315509,903,74,3700 Forbes Ave,15213,Central Oakland
+315510,905,74,5888 Forbes Ave,15217,Squirrel Hill South
+315511,906,74,3718 Fifth Avenue,15213,Central Oakland
+315512,907,74,5819 Forbes Ave,15217,Squirrel Hill North
+315513,908,74,5846 Forbes Ave,15217,Squirrel Hill South
+315514,911,74,2138 Noblestown Road,15205,Westwood
+315515,913,74,431 South Main Street,15220,West End
+315516,914,74,312 South Main Street,15220,West End
+315517,915,74,7114 Kelly Street,15208,Homewood South
+315518,917,74,7535 Penn Avenue,15221,Point Breeze North
+315519,918,74,702 Brookline Blvd,15226,Brookline
+315520,919,74,603 Lincoln Avenue,15206,Larimer
+315521,920,74,5218 Friendship Avenue,15224,Bloomfield
+315522,921,74,804 North Negley Avenue,15206,Highland Park
+315523,923,74,5482 Penn Avenue,15206,Friendship
+315524,924,74,7734 Kelly Street,15208,Homewood South
+315525,925,74,6640 Frankstown Avenue,15206,Larimer
+315526,926,74,6490 Frankstown Avenue,15206,Larimer
+315527,927,74,519 North Highland Avenue,15206,East Liberty
+315528,928,74,1133 Merrick Avenue,15226,Brookline
+315529,929,74,7053 Frankstown Avenue,15208,Homewood South
+315530,930,74,149 South Negley Avenue,15206,East Liberty
+315531,931,74,601 North Negley Avenue,15206,East Liberty
+315532,932,74,926 Brookline Blvd,15226,Brookline
+315533,934,74,310 Paulson Avenue,15206,Larimer
+315534,935,74,1153 Lincoln Avenue,15206,Lincoln-Lemington-Belmar
+315535,936,74,710 North Homewood Avenue,15208,Homewood South
+315536,937,74,7117 Bennett Street,15208,Homewood South
+315537,938,74,6471 Frankstown Avenue,15206,Larimer
+315538,939,74,6967 Frankstown Avenue,15208,Homewood West
+315539,940,74,6286 East Liberty Boulevard,15206,Larimer
+315540,941,74,4010 Penn Avenue,15224,Central Lawrenceville
+315541,942,74,5611 Elmer Street,15232,Shadyside
+315542,943,74,6369 East Liberty Boulevard,15206,Larimer
+315543,944,74,130 South Whitfield Street,15206,East Liberty
+315544,945,74,125 South Beatty Street,15206,East Liberty
+315545,946,74,5404 Centre Ave,15232,Bloomfield
+315546,947,74,501 Larimer Avenue,15206,Larimer
+315547,948,74,5538 Stanton Avenue,15206,East Liberty
+315548,949,74,5305 Baum Boulevard,15224,Bloomfield
+315549,950,74,8200 Bennett Street,15221,East Hills
+315550,951,74,3722 Penn Avenue,15201,Lower Lawrenceville
+315551,952,74,119 North Sheridan Ave,15206,East Liberty
+315552,953,74,6648 Fifth Avenue,15206,Shadyside
+315553,954,74,4951 Centre Ave,15213,Bloomfield
+315554,955,74,4052 Liberty Avenue,15224,Bloomfield
+315555,957,74,1025 Brookline Blvd,15226,Brookline
+315556,958,74,Ansley Street,15206,East Liberty
+315557,959,74,3623 Liberty Avenue,15201,Lower Lawrenceville
+315558,960,74,800 South Negley Avenue,15232,Shadyside
+315559,961,74,6600 Fifth Avenue,15206,Shadyside
+315560,962,74,915 Brookline Blvd,15226,Brookline
+315561,963,74,120 South Whitfield Street,15206,East Liberty
+315562,964,74,7121 Bennett Street,15208,Homewood South
+315563,965,74,6508 Frankstown Avenue,15206,Larimer
+315564,966,74,130 South Whitfield Street,15206,East Liberty
+315565,967,74,229 Stratford Avenue,15206,Friendship
+315566,968,74,7246 Kelly Street,15208,Homewood South
+315567,969,74,5879 Centre Ave,15206,East Liberty
+315568,970,74,5318 Friendship Avenue,15232,Bloomfield
+315569,972,74,5100 Friendship Avenue,15224,Bloomfield
+315570,973,74,420 Roup Avenue,15206,Friendship
+315571,975,74,7103 Penn Avenue,15208,Point Breeze North
+315572,976,74,742 Brookline Blvd,15226,Brookline
+315573,977,74,301 Larimer Avenue,15206,Larimer
+315574,978,74,1854 Forbes Ave,15219,Bluff
+315575,979,74,7237 Kelly Street,15208,Homewood South
+315576,980,74,7120 Kelly Street,15208,Homewood South
+315577,981,74,4901 Friendship Avenue,15224,Bloomfield
+315578,982,74,1730 Forbes Ave,15219,Bluff
+315579,983,74,1714 Fifth Avenue,15219,Bluff
+315580,985,74,1425 Forbes Ave,15219,Bluff
+315581,986,74,421 North Highland Avenue,15206,East Liberty
+315582,987,74,7721 Kelly Street,15208,Homewood South
+315583,988,74,534 North Braddock Avenue,15208,Homewood South
+315584,989,74,3950 Liberty Avenue,15224,Lower Lawrenceville
+315585,990,74,1502 Lincoln Avenue,15206,Lincoln-Lemington-Belmar
+315586,991,74,1101 Lincoln Avenue,15206,Lincoln-Lemington-Belmar
+315587,992,74,4420 Penn Avenue,15201,Central Lawrenceville
+315588,993,74,819 Brushton Avenue,15208,Homewood South
+315589,994,74,5140 Liberty Avenue,15224,Bloomfield
+315590,995,74,410 North Highland Avenue,15206,East Liberty
+315591,996,74,3657 Penn Avenue,15201,Lower Lawrenceville
+315592,997,74,3649 Liberty Avenue,15201,Lower Lawrenceville
+315593,998,74,804 North Negley Avenue,15206,Highland Park
+315594,999,74,7317 Frankstown Avenue,15208,Homewood North
+315595,1000,74,8000 Frankstown Avenue,15221,East Hills
+315596,1002,74,5701 Baum Boulevard,15232,East Liberty
+315597,1003,74,5905 Station Street,15206,East Liberty
+315598,1004,74,247 South Pacific Avenue,15224,Bloomfield
+315599,1005,74,South Beatty Street,15206,East Liberty
+315600,1006,74,5450 Friendship Avenue,15206,Friendship
+315601,1007,74,6640 Frankstown Avenue,15206,Larimer
+315602,1008,74,1200 North Saint Clair Street,15206,Highland Park
+315603,1010,74,4782 Liberty Avenue,15224,Bloomfield
+315604,1011,74,5450 Friendship Avenue,15206,Friendship
+315605,1012,74,625 Brushton Avenue,15208,Homewood South
+315606,1013,74,3349 Liberty Avenue,15201,Lower Lawrenceville
+315607,1014,74,825 Freeport Road,15238,Lincoln-Lemington-Belmar
+315608,1015,74,5105 Fifth Avenue,15232,Shadyside
+315609,1016,74,211 Roup Avenue,15206,Friendship
+315610,1017,74,4951 Centre Ave,15213,Shadyside
+315611,1018,74,231 Roup Avenue,15206,Friendship
+315612,1019,74,416 Pressley Street,15212,East Allegheny
+315613,1020,74,238 South Negley Avenue,15206,Friendship
+315614,1021,74,1306 Lincoln Avenue,15206,Lincoln-Lemington-Belmar
+315615,1022,74,6140 Station Street,15206,East Liberty
+315616,1023,74,622 North Homewood Avenue,15208,Homewood South
+315617,1024,74,4800 Liberty Avenue,15224,Bloomfield
+315618,1025,74,1403 Lincoln Avenue,15206,Lincoln-Lemington-Belmar
+315619,1026,74,4115 Liberty Avenue,15224,Bloomfield
+315620,1027,74,370 South Negley Avenue,15232,Friendship
+315621,1028,74,4739 Maripoe Street,15213,Bloomfield
+315622,1029,74,421 North Highland Avenue,15206,East Liberty
+315623,1030,74,123 North Sheridan Ave,15206,East Liberty
+315624,1031,74,6812 Fifth Avenue,15206,Larimer
+315625,1032,74,5551 Centre Ave,15232,Shadyside
+315626,1033,74,5862 Baum Boulevard,15206,East Liberty
+315627,1034,74,5707 Penn Avenue,15206,East Liberty
+315628,1035,74,409 Kirkpatrick Street,15219,Middle Hill
+315629,1036,74,2229 Fifth Avenue,15219,Bluff
+315630,1037,74,3444 Forbes Ave,15213,Central Oakland
+315631,1039,74,3347 Forbes Ave,15213,South Oakland
+315632,1040,74,3301 Forbes Ave,15213,South Oakland
+315633,1041,74,3455 Forbes Ave,15213,Central Oakland
+315634,1043,74,3752 California Ave,15212,Brighton Heights
+315635,1044,74,2032 Forbes Ave,15219,Bluff
+315636,1045,74,1710 Forbes Ave,15219,Bluff
+315637,1046,74,2321 Webster Avenue,15219,Middle Hill
+315638,1047,74,1801 Fifth Avenue,15219,Crawford-Roberts
+315639,1048,74,2203 Fifth Avenue,15219,West Oakland
+315640,1049,74,2076 Fifth Avenue,15219,Bluff
+315641,1050,74,1903 East Carson Street,15203,South Side Flats
+315642,1051,74,3500 Fifth Avenue,15213,Central Oakland
+315643,1052,74,1819 Forbes Ave,15219,Bluff
+315644,1054,74,2002 Fifth Avenue,15219,West Oakland
+315645,1055,74,3508 Fifth Avenue,15213,Central Oakland
+315646,1056,74,1945 Fifth Avenue,15219,Crawford-Roberts
+315647,1057,74,4210 Butler Street,15201,Central Lawrenceville
+315648,1058,74,3616 Fifth Avenue,15213,West Oakland
+315649,1059,74,247 North Shore Drive,15212,North Shore
+315650,1061,74,2900 Liberty Avenue,15201,Strip District
+315651,1062,74,4239 Main Street,15224,Bloomfield
+315652,1063,74,122 Virginia Ave,15211,Mount Washington
+315653,1064,74,906 North Homewood Avenue,15208,Homewood North
+315654,1065,74,119 McCandless Avenue,15201,Upper Lawrenceville
+315655,1066,74,4707 Liberty Avenue,15224,Bloomfield
+315656,1067,74,209 Atwood St,15213,Central Oakland
+315657,1068,74,4734 Stanton Avenue,15201,Stanton Heights
+315658,1069,74,3608 Forbes Ave,15213,Central Oakland
+315659,1070,74,3520 Forbes Ave,15213,Central Oakland
+315660,1071,74,3800 Forbes Ave,15213,Central Oakland
+315661,1072,74,3524 Fifth Avenue,15213,Central Oakland
+315662,1073,74,4001 Fifth Avenue,15213,North Oakland
+315663,1075,74,4108 Penn Avenue,15224,Central Lawrenceville
+315664,1076,74,3602 Fifth Avenue,15213,Central Oakland
+315665,1077,74,3414 Fifth Avenue,15213,West Oakland
+315666,1078,74,4115 Liberty Avenue,15224,Bloomfield
+315667,1079,74,4500 Liberty Avenue,15224,Bloomfield
+315668,1080,74,4210 Main Street,15224,Bloomfield
+315669,1081,74,4117 Liberty Avenue,15224,Bloomfield
+315670,1082,74,4505 Liberty Avenue,15224,Bloomfield
+315671,1083,74,4525 Liberty Avenue,15224,Bloomfield
+315672,1084,74,312 Pearl Street,15224,Bloomfield
+315673,1085,74,4512 Liberty Avenue,15224,Bloomfield
+315674,1086,74,4723 Liberty Avenue,15224,Bloomfield
+315675,1087,74,4606 Liberty Avenue,15224,Bloomfield
+315676,1088,74,4626 Liberty Avenue,15224,Bloomfield
+315677,1089,74,4500 Liberty Avenue,15224,Bloomfield
+315678,1090,74,1624 Brownsville Rd,15210,Carrick
+315679,1091,74,4105 Penn Avenue,15224,Central Lawrenceville
+315680,1092,74,4322 Penn Avenue,15224,Bloomfield
+315681,1093,74,1355 Romanhoff Street,15212,Spring Hill-City View
+315682,1094,74,8 Beltzhoover Ave,15203,Allentown
+315683,1095,74,4526 Liberty Avenue,15224,Bloomfield
+315684,1096,74,4320 Penn Avenue,15201,Central Lawrenceville
+315685,1098,74,4104 Penn Avenue,15224,Bloomfield
+315686,1099,74,4727 Liberty Avenue,15224,Bloomfield
+315687,1100,74,745 Greenfield Ave,15217,Greenfield
+315688,1101,74,4924 Liberty Avenue,15224,Bloomfield
+315689,1102,74,4800 Liberty Avenue,15224,Bloomfield
+315690,1103,74,4826 Liberty Avenue,15224,Bloomfield
+315691,1104,74,4626 Liberty Avenue,15224,Bloomfield
+315692,1105,74,4320 Penn Avenue,15224,Central Lawrenceville
+315693,1106,74,4117 Penn Avenue,15224,Central Lawrenceville
+315694,1107,74,378 South Negley Avenue,15232,Friendship
+315695,1108,74,5440 Centre Ave,15232,Shadyside
+315696,1109,74,5135 Liberty Avenue,15224,Bloomfield
+315697,1111,74,4736 Friendship Avenue,15224,Bloomfield
+315698,1112,74,4753 Liberty Avenue,15224,Bloomfield
+315699,1113,74,6348 Centre Ave,15206,East Liberty
+315700,1114,74,5932 Centre Ave,15206,Shadyside
+315701,1115,74,6701 Frankstown Avenue,15208,Homewood West
+315702,1116,74,7240 Fleury Way,15208,Homewood South
+315703,1117,74,5005 Friendship Avenue,15224,Bloomfield
+315704,1118,74,220 North Highland Avenue,15206,East Liberty
+315705,1119,74,211 North Whitfield Street,15206,East Liberty
+315706,1120,74,402 North Beatty Street,15206,East Liberty
+315707,1121,74,223 North Highland Avenue,15206,East Liberty
+315708,1122,74,5140 Friendship Avenue,15224,Bloomfield
+315709,1123,74,218 South Graham Street,15206,Friendship
+315710,1124,74,4512 Penn Avenue,15201,Central Lawrenceville
+315711,1125,74,3339 Penn Avenue,15201,Lower Lawrenceville
+315712,1127,74,3234 Penn Avenue,15201,Strip District
+315713,1128,74,3836 Penn Avenue,15201,Lower Lawrenceville
+315714,1129,74,1437 North Saint Clair Street,15206,Highland Park
+315715,1130,74,128 North Highland Avenue,15206,East Liberty
+315716,1131,74,715 North Highland Avenue,15206,East Liberty
+315717,1132,74,5910 Harvard Street,15206,East Liberty
+315718,1133,74,3836 Penn Avenue,15201,Lower Lawrenceville
+315719,1134,74,1001 North Negley Avenue,15206,Highland Park
+315720,1136,74,161 North Euclid Avenue,15206,East Liberty
+315721,1137,74,6378 Centre Ave,15206,East Liberty
+315722,1138,74,125 South Beatty Street,15206,East Liberty
+315723,1139,74,217 North Highland Avenue,15206,East Liberty
+315724,1140,74,5309 Hillcrest Street,15224,Garfield
+315725,1141,74,211 North Whitfield Street,15206,East Liberty
+315726,1142,74,4445 Howley Street,15224,Bloomfield
+315727,1143,74,200 South Winebiddle Street,15224,Bloomfield
+315728,1144,74,4420 Penn Avenue,15224,Bloomfield
+315729,1145,74,4627 Liberty Avenue,15224,Bloomfield
+315730,1146,74,4759 Liberty Avenue,15224,Bloomfield
+315731,1147,74,5260 Centre Ave,15232,Shadyside
+315732,1148,74,4761 Liberty Avenue,15224,Bloomfield
+315733,1150,74,5455 Penn Avenue,15206,Garfield
+315734,1151,74,5437 Penn Avenue,15206,Garfield
+315735,1152,74,5461 Penn Avenue,15206,Friendship
+315736,1153,74,5501 Penn Avenue,15206,Garfield
+315737,1154,74,17 West Cherryhill Street,15210,Carrick
+315738,1155,74,6009 Broad Street,15206,East Liberty
+315739,1156,74,5401 Penn Avenue,15206,Garfield
+315740,1157,74,6033 Broad Street,15206,East Liberty
+315741,1158,74,2434 Brownsville Rd,15210,Carrick
+315742,1159,74,6006 Broad Street,15206,East Liberty
+315743,1160,74,1748 Chislett Street,15206,Morningside
+315744,1161,74,1740 Chislett Street,15206,Morningside
+315745,1163,74,6033 Broad Street,15206,East Liberty
+315746,1165,74,6012 Broad Street,15206,East Liberty
+315747,1166,74,4200 Penn Avenue,15224,Bloomfield
+315748,1167,74,6117 Broad Street,15206,East Liberty
+315749,1168,74,5255 Butler Street,15201,Upper Lawrenceville
+315750,1169,74,4104 Butler Street,15201,Central Lawrenceville
+315751,1170,74,5302 Butler Street,15201,Upper Lawrenceville
+315752,1171,74,3811 Butler Street,15201,Lower Lawrenceville
+315753,1173,74,5208 Butler Street,15201,Upper Lawrenceville
+315754,1174,74,7232 Ballard Way,15206,Morningside
+315755,1175,74,7331 Butler Street,15206,Morningside
+315756,1176,74,4617 Butler Street,15201,Central Lawrenceville
+315757,1177,74,4021 Butler Street,15201,Central Lawrenceville
+315758,1178,74,3601 Butler Street,15201,Lower Lawrenceville
+315759,1179,74,4429 Stanton Avenue,15201,Stanton Heights
+315760,1180,74,5170 Butler Street,15201,Upper Lawrenceville
+315761,1181,74,4110 Butler Street,15201,Central Lawrenceville
+315762,1182,74,3400 Penn Avenue,15201,Lower Lawrenceville
+315763,1183,74,4931 Butler Street,15201,Central Lawrenceville
+315764,1184,74,3701 Butler Street,15201,Lower Lawrenceville
+315765,1185,74,4434 Butler Street,15201,Central Lawrenceville
+315766,1186,74,3427 Butler Street,15201,Lower Lawrenceville
+315767,1187,74,4751 Butler Street,15201,Central Lawrenceville
+315768,1188,74,4901 Butler Street,15201,Central Lawrenceville
+315769,1189,74,4001 Butler Street,15201,Lower Lawrenceville
+315770,1190,74,5232 Butler Street,15201,Upper Lawrenceville
+315771,1191,74,4701 Butler Street,15201,Central Lawrenceville
+315772,1192,74,4113 Butler Street,15201,Central Lawrenceville
+315773,1193,74,229 40th Street,15201,Lower Lawrenceville
+315774,1194,74,4929 Butler Street,15201,Central Lawrenceville
+315775,1195,74,3601 Butler Street,15201,Lower Lawrenceville
+315776,1196,74,5240 Butler Street,15201,Upper Lawrenceville
+315777,1197,74,5140 Butler Street,15201,Upper Lawrenceville
+315778,1198,74,4900 Liberty Avenue,15224,Bloomfield
+315779,1199,74,5401 Butler Street,15201,Upper Lawrenceville
+315780,1201,74,5245 Centre Ave,15232,Shadyside
+315781,1202,74,5272 Butler Street,15201,Upper Lawrenceville
+315782,1203,74,3495 Butler Street,15201,Lower Lawrenceville
+315783,1204,74,3508 Butler Street,15201,Lower Lawrenceville
+315784,1205,74,3820 Butler Street,15201,Lower Lawrenceville
+315785,1206,74,3411 Butler Street,15201,Lower Lawrenceville
+315786,1207,74,3533 Butler Street,15201,Lower Lawrenceville
+315787,1208,74,5123 Butler Street,15201,Upper Lawrenceville
+315788,1209,74,3720 Butler Street,15201,Lower Lawrenceville
+315789,1210,74,4303 Butler Street,15201,Central Lawrenceville
+315790,1211,74,3520 Butler Street,15201,Lower Lawrenceville
+315791,1212,74,5215 Centre Ave,15224,Bloomfield
+315792,1213,74,801 North Highland Avenue,15206,Highland Park
+315793,1214,74,4407 Butler Street,15201,Central Lawrenceville
+315794,1215,74,3480 Butler Street,15201,Lower Lawrenceville
+315795,1216,74,3418 Penn Avenue,15201,Lower Lawrenceville
+315796,1217,74,4635 Butler Street,15201,Central Lawrenceville
+315797,1218,74,5155 Butler Street,15201,Upper Lawrenceville
+315798,1219,74,5601 Butler Street,15201,Upper Lawrenceville
+315799,1220,74,5517 Butler Street,15201,Upper Lawrenceville
+315800,1221,74,4020 Butler Street,15201,Central Lawrenceville
+315801,1222,74,5105 Butler Street,15201,Upper Lawrenceville
+315802,1223,74,4601 Butler Street,15201,Central Lawrenceville
+315803,1224,74,4328 Butler Street,15201,Central Lawrenceville
+315804,1225,74,800 North Highland Avenue,15206,East Liberty
+315805,1226,74,4811 Butler Street,15201,Central Lawrenceville
+315806,1227,74,524 North Homewood Avenue,15208,Homewood South
+315807,1228,74,551 North Homewood Avenue,15208,Homewood South
+315808,1229,74,601 North Homewood Avenue,15208,Homewood South
+315809,1230,74,551 North Homewood Avenue,15208,Homewood South
+315810,1231,74,531 North Homewood Avenue,15208,Homewood South
+315811,1232,74,517 North Homewood Avenue,15208,Homewood South
+315812,1233,74,601 North Homewood Avenue,15208,Homewood South
+315813,1234,74,536 North Homewood Avenue,15208,Homewood South
+315814,1235,74,722 Ivy Street,15232,Shadyside
+315815,1236,74,5521 Walnut Street,15232,Shadyside
+315816,1238,74,5534 Walnut Street,15232,Shadyside
+315817,1239,74,5401 Walnut Street,15232,Shadyside
+315818,1240,74,714 Culloden Way,15232,Shadyside
+315819,1241,74,811 South Aiken Avenue,15232,Shadyside
+315820,1242,74,5508 Walnut Street,15232,Shadyside
+315821,1243,74,5431 Walnut Street,15232,Shadyside
+315822,1244,74,727 Ivy Street,15232,Shadyside
+315823,1245,74,5405 Fifth Avenue,15232,Shadyside
+315824,1246,74,806 Ivy Street,15232,Shadyside
+315825,1247,74,739 Bellefonte Street,15232,Shadyside
+315826,1248,74,5433 Walnut Street,15232,Shadyside
+315827,1249,74,714 Culloden Way,15232,Shadyside
+315828,1250,74,5442 Walnut Street,15232,Shadyside
+315829,1251,74,5501 Walnut Street,15232,Shadyside
+315830,1252,74,5413 Walnut Street,15232,Shadyside
+315831,1253,74,5513 Walnut Street,15232,Shadyside
+315832,1254,74,5434 Walnut Street,15232,Shadyside
+315833,1255,74,5426 Walnut Street,15232,Shadyside
+315834,1256,74,731 Filbert Street,15232,Shadyside
+315835,1257,74,5527 Walnut Street,15232,Shadyside
+315836,1258,74,5411 Walnut Street,15232,Shadyside
+315837,1259,74,5436 Walnut Street,15232,Shadyside
+315838,1260,74,806 Ivy Street,15232,Shadyside
+315839,1261,74,5421 Walnut Street,15232,Shadyside
+315840,1262,74,731 South Aiken Avenue,15232,Shadyside
+315841,1263,74,5443 Walnut Street,15232,Shadyside
+315842,1264,74,5541 Walnut Street,15232,Shadyside
+315843,1265,74,Urn Way,15232,Shadyside
+315844,1266,74,736 Bellefonte Street,15232,Shadyside
+315845,1267,74,816 Ivy Street,15232,Shadyside
+315846,1268,74,6579 English Lane,15217,Squirrel Hill South
+315847,1269,74,Frick Park,15217,Squirrel Hill South
+315848,1270,74,2005 Blue Slide Park,15217,Squirrel Hill South
+315849,1271,74,2005 Blue Slide Park,15217,Squirrel Hill South
+315850,1272,74,155 Blue Slide Park,15217,Squirrel Hill South
+315851,1273,74,Frick Park,15217,Squirrel Hill South
+315852,1274,74,Jays Short Cut Trail,15217,Squirrel Hill South
+315853,1275,74,269 Riverview Trail,15217,Squirrel Hill South
+315854,1276,74,269 Riverview Trail,15217,Squirrel Hill South
+315855,1277,74,Riverview Trail,15217,Squirrel Hill South
+315856,1278,74,611 South Braddock Avenue,15221,Regent Square
+315857,1279,74,Forbes and Braddock Playground,15221,Regent Square
+315858,1280,74,Forbes and Braddock Playground,15221,Regent Square
+315859,1281,74,707 South Braddock Avenue,15221,Regent Square
+315860,1282,74,7500 Henrietta Street,15218,Regent Square
+315861,1283,74,1100 Lancaster Avenue,15218,Regent Square
+315862,1284,74,Sanders Street,15218,Regent Square
+315863,1285,74,7300 Hutchinson Street,15217,Squirrel Hill South
+315864,1286,74,1200 Trevanion Avenue,15217,Squirrel Hill South
+315865,1287,74,Nine Mile Run,15217,Squirrel Hill South
+315866,1288,74,Falls Ravine Trail,15217,Squirrel Hill South
+315867,1289,74,829 Milton Street,15221,Squirrel Hill South
+315868,1290,74,Allenby Way,15218,
+315869,1291,74,1220 Commercial Street,15218,Swisshelm Park
+315870,1292,74,Commercial Street,15217,Squirrel Hill South
+315871,1293,74,Commercial Street,15217,Squirrel Hill South
+315872,1294,74,326 South Homewood Avenue,15217,Point Breeze
+315873,1295,74,Homewood Trail Entrance,15217,Point Breeze
+315874,1296,74,Reynolds St,15217,Point Breeze
+315875,1297,74,Reynolds St,15217,Point Breeze
+315876,1298,74,7416 Hawthorne Trail,15217,Point Breeze
+315877,1299,74,549 Richland Lane,15221,Point Breeze
+315878,1300,74,5655 Solway Street,15217,Squirrel Hill North
+315879,1301,74,2024 Beechwood Boulevard,15217,Squirrel Hill South
+315880,1302,74,912 North Braddock Avenue,15208,Homewood North
+315881,1303,74,1339 Our Way,15219,Central Business District
+315882,1304,74,110 Bakery Square Boulevard,15206,Shadyside
+315883,1305,74,6519 Penn Avenue,15206,Shadyside
+315884,1308,74,155 Larimer Avenue,15206,East Liberty
+315885,1309,74,6248 Kalida Drive,15206,East Liberty
+315886,1310,74,106 Larimer Avenue,15206,East Liberty
+315887,1311,74,345 Omega Court,15206,East Liberty
+315888,1312,74,6262 East Liberty Boulevard,15206,East Liberty
+315889,1313,74,337 Princeton Place,15206,East Liberty
+315890,1314,74,6248 Station Street,15206,East Liberty
+315891,1315,74,6265 Kalida Drive,15206,East Liberty
+315892,1316,74,3629 Butler Street,15201,Lower Lawrenceville
+315893,1317,74,3600 Butler Street,15201,Lower Lawrenceville
+315894,1318,74,1326 Wightman Street,15217,Squirrel Hill North
+315895,1319,74,6526 Living Place,15206,Shadyside
+315896,1320,74,5637 Solway Street,15217,Squirrel Hill North
+315897,1321,74,6515 Penn Avenue,15206,Shadyside
+315898,1322,74,5637 Solway Street,15217,Squirrel Hill North
+315899,1323,74,803 Ernie Street,15220,Elliott
+315900,1324,74,803 Ernie Street,15220,Elliott
+315901,1325,105,3701 Forbes Ave,15213,Central Oakland
+315902,1326,105,3721 Forbes Ave,15213,Central Oakland
+315903,1327,105,3600 Forbes Ave,15213,Central Oakland
+315904,1328,105,3701 Forbes Ave,15213,Central Oakland
+315905,1329,74,175 Granville Street,15219,Crawford-Roberts
+315906,1330,74,175 Granville Street,15219,Crawford-Roberts
+315907,1331,74,1796 Mcbride Street,15207,Lincoln Place
+315908,1332,74,1796 Mcbride Street,15207,Lincoln Place
+315909,1333,74,1796 Mcbride Street,15207,Lincoln Place
+315910,1334,74,1796 Mcbride Street,15207,Lincoln Place
+315911,1335,74,300 Larimer Avenue,15206,Larimer
+315912,1336,74,25 Meadow Street,15206,Larimer
+315913,1337,74,6525 Meadow Street,15206,Larimer
+315914,1338,74,722 Larimer Avenue,15206,Larimer
+315915,1339,74,160 Meadow Street,15206,Larimer
